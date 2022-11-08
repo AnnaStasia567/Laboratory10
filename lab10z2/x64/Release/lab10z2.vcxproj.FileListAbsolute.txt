@@ -1,0 +1,5 @@
+D:\Інформатика\C++\lab10z2\x64\Release\lab10z2.vcxproj.AssemblyReference.cache
+D:\Інформатика\C++\lab10z2\x64\Release\lab10z2.vcxproj.SuggestedBindingRedirects.cache
+D:\Інформатика\C++\lab10z2\x64\Release\lab10z2.MyForm.resources
+D:\Інформатика\C++\lab10z2\x64\Release\lab10z2.vcxproj.GenerateResource.cache
+D:\Інформатика\C++\lab10z2\x64\Release\lab10z2.exe

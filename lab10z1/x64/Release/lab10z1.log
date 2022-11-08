@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\Інформатика\C++\lab10z1\MyForm.h(124,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+D:\Інформатика\C++\lab10z1\MyForm.h(125): warning C4700: использована неинициализированная локальная переменная "i"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab10z1.vcxproj -> D:\Інформатика\C++\lab10z1\x64\Release\lab10z1.exe

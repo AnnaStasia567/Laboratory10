@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+D:\Інформатика\C++\lab10z1\MyForm.h(126,1): error C2440: =: невозможно преобразовать "void" в "int"
+D:\Інформатика\C++\lab10z1\MyForm.h(126,30): message : Выражение, имеющее тип void, нельзя преобразовать в другой тип
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
